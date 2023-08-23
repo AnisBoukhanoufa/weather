@@ -142,7 +142,7 @@ cityButton.addEventListener("click", () => {
   const inputCity = document.querySelector(".container .location input");
   const city = inputCity.value.trim();
   fetch(
-    `http://api.openweathermap.org/geo/1.0/direct?q=${city}&appid=${apikey}`
+    `https://api.openweathermap.org/geo/1.0/direct?q=${city}&appid=${apikey}`
   )
     .then((response) => {
       return response.json();
