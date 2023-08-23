@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Dashboard</title>
+    <link rel="stylesheet" href="master.css">
+</head>
+
+<body>
+    <h1 class="header">Weather Dashboard</h1>
+    <div class="content">
+        <div class="container">
+            <div class="location">
+                <h2>Enter a city name</h2>
+                <input type="text" name="place" placeholder="E.g., New York,London,Tokyo">
+                <button id="search">Search</button>
+                <p>or</p>
+                <button id="current">Use Current Location</button>
+            </div>
+            <div class="info">
+                <div class="main">
+                    <div class="text">
+                        <h2 id="location-date"> <span id="name">____</span> (<span id="date">______</span>)</h2>
+                        <p>Temparature: <span id="temp">__</span>°C</p>
+                        <p>Wind: <span id="wind">__</span>M/S</p>
+                        <p>Humidity: <span id="humidity">__</span>%</p>
+                    </div>
+                    <div class="weather"></div>
+                </div>
+                <h2 >Five Days Weather (9:00 Am)</h2>
+                <div class="five-days">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="master.js"></script>
+</body>
+
+</html>

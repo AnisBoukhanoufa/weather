@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Setif",
+        "local_names": {
+            "be": "Горад Сетыф",
+            "ca": "Sitifis",
+            "uk": "Сетіф",
+            "ru": "Сетиф",
+            "hy": "Սետիֆ",
+            "es": "Sétif",
+            "id": "Sathif",
+            "he": "סטיף",
+            "ja": "セティフ",
+            "lt": "Setifas",
+            "mk": "Сетиф",
+            "eo": "Setif",
+            "ur": "سطیف",
+            "de": "Sétif",
+            "br": "Setif",
+            "ks": "سطیف",
+            "fa": "سطیف",
+            "en": "Setif",
+            "ar": "سطيف",
+            "kk": "Сетиф қаласы",
+            "fr": "Sétif",
+            "pl": "Satif",
+            "bg": "Сетиф",
+            "la": "Sitifis",
+            "ko": "세티프",
+            "el": "Σετίφ",
+            "zh": "塞提夫",
+            "eu": "Setif"
+        },
+        "lat": 36.1892751,
+        "lon": 5.403493,
+        "country": "DZ",
+        "state": "Setif"
+    }
+]
